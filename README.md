@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+See [Blog post](https://medium.com/bb-tutorials-and-thoughts/how-to-host-a-react-static-website-on-azure-438e0a915295) which refers to this code for how to deploy to Azure
+
 ## Available Scripts
 
 In the project directory, you can run:
